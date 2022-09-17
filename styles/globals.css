@@ -1,5 +1,9 @@
 html,
 body {
+  background-image: url("/Abstract-geometric-pattern.jpg");
+  background-size: 350px;
+  background-repeat: repeat;
+  text-align: center;
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
